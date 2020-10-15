@@ -1,0 +1,6 @@
+﻿  ID Validation.cpp
+C:\All\Programming\C++\New\ID Validation\ID Validation\ID Validation.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\All\Programming\C++\New\ID Validation\ID Validation\ID Validation.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\All\Programming\C++\New\ID Validation\ID Validation\ID Validation.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\All\Programming\C++\New\ID Validation\ID Validation\ID Validation.cpp(55,26): warning C4018: '<': signed/unsigned mismatch
+  ID Validation.vcxproj -> C:\All\Programming\C++\New\ID Validation\Debug\ID Validation.exe
